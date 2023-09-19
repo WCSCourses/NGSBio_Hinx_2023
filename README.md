@@ -1,6 +1,8 @@
 <img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
 
-# Next Generation Sequencing Bioinformatics
+# Next Generation Sequencing Bioinformatics: 1 to 6 October 2023
+
+Essential informatics skills and knowledge to begin analysing next generation sequencing data
 
 ## Course overview
 
