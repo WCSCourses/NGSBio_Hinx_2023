@@ -13,3 +13,8 @@ This course aims to provide a hands-on introduction to bioinformatics for next g
 The course programme will start with a history and overview of sequencing technologies and algorithmic theory and principles of bioinformatics, followed by intensive practical computational sessions using sequence analysis techniques and tools applicable to any species or genome size. A variety of applications will be covered from post-sequencing analysis (QC, alignment, assembly, variant calling) to RNA-Seq and data visualisation. Accompanying the lectures and practical sessions will be a series of seminars by invited speakers, who will highlight their cutting-edge work harnessing the power of next generation sequencing technologies to address a wide range of biological questions.
 
 The course aims to provide a hands-on introduction to bioinformatics for next generation sequencing, and should not be considered a complete education in the theoretical and mathematical foundations of the topics.
+
+******
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
