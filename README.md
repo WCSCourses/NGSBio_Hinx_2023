@@ -16,6 +16,20 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-20231001/)
 
+## Training Team
+
+- [Jacqueline Keane](https://www.sanger.ac.uk/person/keane-jacqueline/), University of Cambridge
+- [Thomas Keane](https://www.ebi.ac.uk/people/person/thomas-keane/), EMBL-EBI
+- Petr Danecek, Wellcome Sanger Institute
+- Victoria Offord, Wellcome Sanger Institute
+- [Michael Quail](https://www.sanger.ac.uk/person/quail-michael-andrew/), Wellcome Sanger Institute
+- [Vivek Iyer](https://www.sanger.ac.uk/person/iyer-vivek/), Wellcome Sanger Institute
+- Mohab Helmy, EMBL-EBI
+- Bailey Francis, EMBL-EBI
+- Joana Pereira Dias, University of Cambridge
+- Anu Shivalikanjli, EMBL-EBI
+- Elli Mylona, University of Cambridge
+
 ******
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
