@@ -14,6 +14,8 @@ The course programme will start with a history and overview of sequencing techno
 
 The course aims to provide a hands-on introduction to bioinformatics for next generation sequencing, and should not be considered a complete education in the theoretical and mathematical foundations of the topics.
 
+[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/next-generation-sequencing-bioinformatics-20231001/)
+
 ******
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
