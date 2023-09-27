@@ -32,6 +32,8 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 - Anu Shivalikanjli, EMBL-EBI
 - Elli Mylona, University of Cambridge
 
+## [Course Timetable](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/NGS%20Bioinformatics%20Hinxton%202023%20-%20Draft%20Timetable%202023v1.pdf)
+
 ## Presentations and Practical Sessions
 
 - Introduction to Sequencing Technologies Presentation
