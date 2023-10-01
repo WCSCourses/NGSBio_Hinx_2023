@@ -37,7 +37,7 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 ## Presentations and Practical Sessions
 
 - [Introduction to Sequencing Technologies Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Sequencing_Technologies/MQ%20Sequencing%20Tech%202023%20full%20Bioinformatics%20course.pdf)
-- Unix for Bioinformatics Presentation
+- [Unix for Bioinformatics Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Unix/Anu-NGS-VMLinuxIntro-oct2023.pdf)
 - [Unix for Bioinformatics Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Unix/unix.pdf)
 - NGS File Formats and QC Presentation
 - [NGS File Formats and QC Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Data_Formats/data_formats.pdf)
