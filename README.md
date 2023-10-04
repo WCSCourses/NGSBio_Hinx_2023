@@ -44,7 +44,7 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 - [NGS File Formats and QC Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Data_Formats/data_formats.pdf)
 - Read Alignment Presentation
 - [Read Alignment Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Read_Alignment/read_alignment.pdf)
-- Variant Calling Presentation
+- [Variant Calling Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Variant_Calling/Petr-Danecek.Variant-Calling.pdf)
 - [Variant Calling Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Variant_Calling/variant-calling.pdf)
 - SV Calling Presentation
 - [SV Calling Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/SV_Calling/structural_variation.pdf)
