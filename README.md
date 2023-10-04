@@ -49,6 +49,7 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 - [Read Alignment Solutions](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Read_Alignment/read_alignment_solutions.pdf)
 - [Variant Calling Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Variant_Calling/Petr-Danecek.Variant-Calling.pdf)
 - [Variant Calling Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Variant_Calling/variant-calling.pdf)
+- [Variant Calling Solutions](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Variant_Calling/answers.ipynb)
 - SV Calling Presentation
 - [SV Calling Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/SV_Calling/structural_variation.pdf)
 - Public Repositories Presentation
