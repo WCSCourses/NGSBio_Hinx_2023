@@ -54,7 +54,7 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 - [SV Calling Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/SV_Calling/structural_variation.pdf)
 - [SV Calling Solutions](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/SV_Calling/structural_variation_solutions.pdf)
 - [Public Repositories Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Public_Repositories/BioDatabases.pdf)
-- ChIP-Seq Presentation
+- [ChIP-Seq Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/ChIP-Seq/2015-2019-NGSBio-CHiPSeq-Slides.pptx)
 - [ChIP-Seq Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/ChIP-Seq/ChIP-Seq.pdf)
 - [ChIP-Seq Solutions](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/ChIP-Seq/ChIP-Seq-Answers.pdf)
 - RNA-Seq Presentation
