@@ -60,7 +60,7 @@ The course aims to provide a hands-on introduction to bioinformatics for next ge
 - [RNA-Seq Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/RNA-Seq/NGS_Bioinformatics_Hinxton_2023.pdf)
 - [RNA-Seq Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/RNA-Seq/RNA-Seq.pdf)
 - [RNA-Seq Solutions](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/RNA-Seq/RNA-Seq_answers.pdf)
-- Genome Assembly Presentation
+- [Genome Assembly Presentation](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Genome_Assembly/NGSBio_Genome_Assembly_Slides.pdf)
 - [Genome Assembly Practical](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Genome_Assembly/assembly.pdf)
 - [Genome Assembly Solutions](https://github.com/WCSCourses/NGSBio_Hinx_2023/blob/main/Modules/Genome_Assembly/assembly_solutions.pdf)
 
